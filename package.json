@@ -1,12 +1,14 @@
 {
-  "name": "react-redux-bulma",
+  "name": "react-firebase-api",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "bulma": "0.9.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
+    "react-query": "1.5.8",
     "react-redux": "7.2.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "3.0.1",
